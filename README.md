@@ -3,7 +3,9 @@
 > Tugas Praktikum Pemrograman Web — Week 4  
 > Tema: Pengenalan HTML, CSS, dan JavaScript Dasar
 
-![CyberGuard Demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VoZGV4cXkzempuZmRtZDQzZjNnYTBjOWo1ajM4a3hwNDlpdW53MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2zUn8hAwJwG4abiS0p/giphy.gif)
+<div align="center">
+  <img src="cyberguard-demo.gif" alt="CyberGuard Demo" width="600"/>
+</div>
 
 ## 📌 Tujuan Tugas
 Membangun halaman web sederhana yang menggabungkan:
@@ -25,11 +27,16 @@ Membangun halaman web sederhana yang menggabungkan:
    [https://octafex.github.io/Pemrograman-WEB/cyberguard/](https://octafex.github.io/Pemrograman-WEB/cyberguard/)
 
 ## 💻 Teknologi yang Digunakan
-| Teknologi | Deskripsi |
-|-----------|-----------|
-| HTML5     | Struktur dasar halaman web |
-| CSS3      | Desain dan tata letak halaman |
-| JavaScript (ES6) | Logika dan interaktivitas |
+
+<div align="center">
+
+| Teknologi       | Deskripsi                     |
+|-----------------|-------------------------------|
+| HTML5           | Struktur dasar halaman web    |
+| CSS3            | Desain dan tata letak halaman |
+| JavaScript (ES6)| Logika dan interaktivitas     |
+
+</div>
 
 ---
 
