@@ -1,11 +1,11 @@
 # 🛡️ CyberGuard - Portal Edukasi Keamanan Siber
 
+> Tugas Praktikum Pemrograman Web — Week 4  
+> Tema: Pengenalan HTML, CSS, dan JavaScript Dasar
+
  <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlhazYzcW4zd3Rrd2xlYjlhc3Vlank2MHF3aTJsazlvNmxuMjN0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif" width="450"/>
 </p>
-
-> Tugas Praktikum Pemrograman Web — Week 4  
-> Tema: Pengenalan HTML, CSS, dan JavaScript Dasar
 
 <div align="center">
   <img src="cyberguard-demo.gif" alt="CyberGuard Demo" width="600"/>
